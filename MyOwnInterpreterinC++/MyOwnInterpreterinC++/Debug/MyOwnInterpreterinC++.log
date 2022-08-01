@@ -1,0 +1,6 @@
+﻿  Interpreter.cpp
+C:\Users\Koryun\source\repos\MyOwnInterpreterinC++\MyOwnInterpreterinC++\Interpreter.cpp(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Koryun\source\repos\MyOwnInterpreterinC++\MyOwnInterpreterinC++\Interpreter.cpp(109,22): warning C4018: '<': signed/unsigned mismatch
+  MyOwnInterpreterinC++.cpp
+  Generating Code...
+  MyOwnInterpreterinC++.vcxproj -> C:\Users\Koryun\source\repos\MyOwnInterpreterinC++\Debug\MyOwnInterpreterinC++.exe
